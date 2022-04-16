@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { ShopProducts } from "../data";
 import Cards from "./card";
 import "../styles/amazon.css";
